@@ -1,2 +1,16 @@
-If you use this software, please cite it as below:
-SMIDA Houcine L. (2026). Smida-Houcine/SmidaPerm: SmidaPerm (v1.1.0). Zenodo. https://doi.org/10.5281/zenodo.18302746  
+@software{smida_houcine_l_2026_18302746,
+  author       = {SMIDA Houcine L.},
+  title        = {Smida-Houcine/SmidaPerm: SmidaPerm},
+  month        = jan,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.1.0},
+  doi          = {10.5281/zenodo.18302746},
+  url          = {https://doi.org/10.5281/zenodo.18302746},
+  swhid        = {swh:1:dir:0dd977f4c3b4beb4829cf3bd6f4900f86ae8e689
+                   ;origin=https://doi.org/10.5281/zenodo.18182875;vi
+                   sit=swh:1:snp:ed4ab6f0cf5feb3a31067fd355f169b29e0b
+                   5ce6;anchor=swh:1:rel:fe92358d590c91ab76e1c237c0fb
+                   15b77bb177e7;path=Smida-Houcine-SmidaPerm-3fb16c6
+                  },
+}
