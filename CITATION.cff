@@ -5,9 +5,9 @@ authors:
   - family-names: SMIDA
     given-names: Houcine L.
 orcid: https://orcid.org/0009-0005-4972-3124
-title: "Smida-Houcine/SmidaPerm: SmidaPerm"
-repository-code: https://github.com/Smida-Houcine/SmidaPerm/tree/v1.1.0
+title: "SmidaPerm"
 version: v1.1.0
 date-released: 2026-01-19
-doi: 10.5281/zenodo.18302746
-publisher: Zenodo 
+doi: 10.5281/zenodo.18182875
+url: "https://github.com/Smida-Houcine/SmidaPerm"
+repository-code: "https://github.com/Smida-Houcine/SmidaPerm"
