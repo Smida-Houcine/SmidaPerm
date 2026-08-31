@@ -3,7 +3,7 @@ EViews program for generating permutations of a set of elements using Smida's al
 **Description:**   
 This repository provides **SmidaPerm**, an EViews program that implements Smida’s algorithm for permutation generation.         
 **Requirements:**  
-• EViews version: Implemented in EViews 13 and tested in EViews 10.   
+• EViews version: Implemented and tested in EViews 13.   
 • Operating System: Windows 10/11.    
 **Files:**  
 This repository is composed by the files:   
