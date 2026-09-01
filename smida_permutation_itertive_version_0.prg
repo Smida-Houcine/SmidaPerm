@@ -1,6 +1,6 @@
 ' Smida's Row Insertion Permutation Algorithm (RIPA)
 ' Recursive version
-' Written by: SMIDA Houcine L. (2026)
+' Written by: SMIDA Houcine L. (2025)
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 !n=4
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
