@@ -34,4 +34,4 @@ The installed Add-in appears in the EViews Add-ins menu.
 
 Smida, Houcine L. (2025). *RIPA: An Iterative Row Insertion Algorithm for Permutation Generation* (December 12, 2025). Available at SSRN: http://dx.doi.org/10.2139/ssrn.6049254.  
 
-Smida, Houcine L. (2026). *smidaperm*. Available on the EViews Add-ins page: http://www.eviews.com/Addins/smidaperm.aipz.
+Smida, Houcine L. (2026). *smidaperm*. Available on the EViews Add-ins page: https://www.eviews.com/Addins/smidaperm.aipz.
