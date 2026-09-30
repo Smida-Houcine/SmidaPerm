@@ -20,7 +20,7 @@ This repository is composed of the following files:
 
 ## EViews Add-in
 The iterative implementation is available as the **“smidaperm”** Add-in on the official EViews Add-ins page:  
-http://www.eviews.com/Addins/smidaperm.aipz  
+https://www.eviews.com/Addins/smidaperm.aipz  
 
 ## For Developers / Researchers
 The `.prg` files can be opened and executed directly in EViews. They are provided to study, modify, or extend the implementations.  
